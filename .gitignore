@@ -1,0 +1,25 @@
+# Pliki i foldery, których nie chcemy w repozytorium
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pliki wynikowe i tymczasowe
+results/
+*.json
+*.png
+
+# Środowiska wirtualne
+venv/
+env/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Jupyter / VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Backupy
+*.bak
