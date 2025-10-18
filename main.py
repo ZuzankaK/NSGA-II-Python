@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import json
 import re
 import argparse
-import os  # ← dodane
+import os  
 
 # Klasa reprezentująca osobnika
 class Individual:
