@@ -1,0 +1,18 @@
+# --- Pliki i katalogi lokalne ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Wyniki eksperymentów ---
+results/
+*.png
+*.json
+
+# --- Środowiska i zależności ---
+.venv/
+env/
+venv/
+
+# --- Ustawienia edytora ---
+.vscode/
+.idea/
